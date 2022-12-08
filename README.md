@@ -19,7 +19,7 @@
 And of course School Management is open source
 
 
-### Installation
+### Installation method
 
 School Management requires [Python](https://www.python.org/downloads/) v3.6  and  [Django](https://www.djangoproject.com/download/) v2.2 to run.
 
